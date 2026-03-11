@@ -1,0 +1,26 @@
+{
+
+    " Onboarding Screen Strings":"",
+
+    "TOMOTO": "TOMOTO",
+    "Welcome": "Welcome to Tomoto, Let's shop!",
+    "Continue": "Continue",
+
+
+    "Profile Completion Strings":"", 
+
+    "Sign_Up": "Sign Up",
+    "Complete_Profile": "Complete Profile",
+    "Please_provide_your_details_to_continue": "Please provide your details to continue",
+    "First_Name": "First Name",
+    "Enter_your_First_Name": "Enter your first name",
+    "Last_Name": "Last Name",
+    "Enter_your_Last_Name": "Enter your last name",
+    "Phone_Number": "Phone Number",
+    "Enter_your_Phone_Number": "Enter your phone number",
+    "Adress": "Address",
+    "Enter_your_Adress": "Enter your address",
+    "Discription": "By continuing you confirm that you agree\nwith our Terms and Conditions"
+
+
+}

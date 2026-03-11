@@ -1,0 +1,20 @@
+{
+    "Onboarding Screen Strings": "",
+    "TOMOTO": "توموتو",
+    "Welcome": "مرحبًا بك في توموتو، هيا نتسوّق!",
+    "Continue": "متابعة",
+
+    "Profile Completion Strings": "",
+    "Sign_Up": "إنشاء حساب",
+    "Complete_Profile": "إكمال الملف الشخصي",
+    "Please_provide_your_details_to_continue": "من فضلك أدخل بياناتك للمتابعة",
+    "First_Name": "الاسم الأول",
+    "Enter_your_First_Name": "أدخل اسمك الأول",
+    "Last_Name": "اسم العائلة",
+    "Enter_your_Last_Name": "أدخل اسم العائلة",
+    "Phone_Number": "رقم الهاتف",
+    "Enter_your_Phone_Number": "أدخل رقم هاتفك",
+    "Adress": "العنوان",
+    "Enter_your_Adress": "أدخل عنوانك",
+    "Discription": "بالمتابعة، أنت توافق على\nالشروط والأحكام الخاصة بنا"
+}
